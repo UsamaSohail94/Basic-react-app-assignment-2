@@ -11,6 +11,10 @@
 .Media {
   background-color: lightskyblue;
   text-align: center;
+  border: 5px solid silver;
+  width: 700px;
+  height: 450px;
+  border-radius: 50px;
 }
 
 .Media >img {
